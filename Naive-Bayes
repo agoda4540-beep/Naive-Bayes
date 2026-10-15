@@ -1,0 +1,1 @@
+A text classification project using the 20 Newsgroups dataset and the Naive Bayes algorithm variants (BernoulliNB, MultinomialNB, and GaussianNB). The project compares different data text representations—binary word presence, word counts, and TF-IDF numerical features—evaluates model accuracies, and discusses theoretical suitability and performance comparisons.
